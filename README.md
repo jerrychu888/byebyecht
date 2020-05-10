@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+今天是我來到中華的第2371天
+也是我要跟中華說再見的日子
+六年半的時光勉強可以算是中華電信研究院的畢業生吧
 
-You can use the [editor on GitHub](https://github.com/jerrychu888/byebyecht/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+這裡是我第一份出社會的工作
+我想 在這裡看到的 學到的 都會影響我一輩子
+在大公司的好處就是看得到很多不一樣的工作內容
+能跟著不一樣的前輩們學習
+記得自己剛進公司前只會寫寫C#
+如今可以獨當一面成為全端工程師+資料分析師+AI工程師
+還曾經幫A20拿下全院創新競賽的第一名
+覺得自己很幸運可以經歷各式各樣不同專案的歷練
+要特別特別感謝憲全兄 余老大這幾年來讓我嘗試各種不同的工作內容
+更要感謝每一個案子跟我配合的你們每一個人
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我也曾想過 會不會就待在中華不出去了
+然而
+還是因為各種機緣
+選擇了和中華說再見
+想到再也無法3:30在美麗的園區散步也是有點難過(誤)
 
-### Markdown
+和大家都有的共同回憶就是被困在IDC機房出不來的日子
+還有台中花博案很緊張會不會一開園就出bug
+夏天一起無奈的在沒冷氣的辦公室加班
+為了更版要跳躍一層一層又一層的跳板機
+為了開發需先申請無數的防火牆才能開始工作
+打開Word看著研發投抵卻擠不出字而懷疑人生
+眼看著專利論文的Deadline要到了連題目還沒想到 手中的程式還有bug
+點點滴滴
+那些以前覺得很瘋狂很鳥的事情
+在這個時刻 卻特別令人印象深刻
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+不知道是該慶幸還是要擔心
+我在一個沒有勾心鬥角的環境裡成長
+希望出去後可以繼續幸運下去
+遇到認真善良的人們
+如果曾經哪裡惹你們不開心
+在這裡跟大家說聲Sorry!
+今天開始大家不是同事
+就是酒肉朋友了
+以後要跟我complain什麼都歡迎 
 
-```markdown
-Syntax highlighted code block
+謝謝大家 :)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jerrychu888/byebyecht/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Jerry敬上
+2020.5.11
